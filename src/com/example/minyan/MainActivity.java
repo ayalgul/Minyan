@@ -3,7 +3,7 @@ package com.example.minyan;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
-
+//Just adding in new material 
 public class MainActivity extends Activity {
 
 	@Override
